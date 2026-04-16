@@ -14,7 +14,7 @@
     ```c
     #include<stdio.h>
     void main(){
-       printf("Alo mundo")
+       printf("Alo mundo");
     }
     ```
 ![Fluxograma](.https://github.com/wellifabio/senai2026/raw/main/ds/turmas/1DES_A/LOP/aula10/fluxograma01.png)
